@@ -117,17 +117,6 @@ a:hover {
 }
 
 /*imagenes*/
-#D-imag {
-    width: 400px;
-    height: 40px;
-    margin: auto;
-    position: static;
-    opacity: 0.7;
-}
-
-#D-imag:hover {
-    opacity: 1.0;
-}
 
 /*articulos*/
 
@@ -136,17 +125,17 @@ a:hover {
     text-align: justify;
 }
 
-/*Foter*/
+/*Footer*/
 footer {
     height: 40px;
-    background-color: #000000;
-    margin-top: 40px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 60px;
     color: rgb(255, 255, 255);
-    font-weight: 800;
-    font-size: 25px;
+    font-weight: 600;
+    font-size: 1.5em;
     letter-spacing: 2px;
     text-align: center;
-    padding: 40px;
+    padding: 20px;
 }
 
 /******************************************************************************************************************************
