@@ -9,7 +9,7 @@ img, video, object, embed {
 }
 
 h1 {
-    color: #fff;
+    color: rgb(255, 255, 255);
     font-family:Arial, Helvetica, sans-serif;
     font-size:1.5em;
     text-shadow:4px 4px 4px rgb(0, 0, 0);
@@ -59,13 +59,13 @@ a:hover {
     width: 100%;
     background-color: rgb(56, 124, 59);
     font-weight: bold;
-    border-bottom: 7px solid #000000;
+    border-bottom: 7px solid rgb(0, 0, 0);
 }
 
 #menu ul {
     padding: 0;
     height: 40px;
-    width: 600px;
+    width: 100px;
 }
 
 #menu li {
@@ -76,7 +76,7 @@ a:hover {
 
 #menu a {
     border-right: 1px solid #576979;
-    color: #fff;
+    color: rgb(255, 255, 255);
     display: inline-block;
     width: 100px;
     text-align: center;
@@ -98,7 +98,7 @@ a:hover {
 }
 
 #menu a:hover, #menu a:active {
-    background-color: #000000;
+    background-color: rgb(0, 0, 0);
 }
 
 #menu a#pull {
